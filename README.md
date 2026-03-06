@@ -43,16 +43,6 @@ Machine Learning
 
 Cybersecurity Concepts
 
-**📂 Project Structure
-AI-Phishing-URL-Detector
-│
-├── main.py              # Main program to check URLs
-├── model.py             # Machine learning model training & loading
-├── features.py          # URL feature extraction
-├── dataset.csv          # Training dataset
-├── phishing_model.pkl   # Saved trained model
-├── requirements.txt     # Required Python libraries
-└── README.md            # Project documentation**
 ⚙️ Installation
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/AI-Phishing-URL-Detector.git
@@ -139,5 +129,6 @@ Cyber Security Enthusiast
 Python Developer
 
 📜 License
+
 
 This project is licensed under the MIT License.
