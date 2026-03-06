@@ -120,7 +120,7 @@ If you like this project, please consider giving it a ⭐ star on GitHub to supp
 
 👨‍💻 Author
 
-Aakash Desani
+Akash Desani
 
 BCA Student
 
@@ -132,3 +132,4 @@ Python Developer
 
 
 This project is licensed under the MIT License.
+
